@@ -16,4 +16,4 @@
 ***
 
 * [CS50 Syllabus]({{ "/syllabus" | relative_url }})
-* [Tools]({{ "/tools" | relative_url }})
+* [Cool Tools]({{ "/tools" | relative_url }})
