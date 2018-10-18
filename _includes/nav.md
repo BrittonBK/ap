@@ -2,7 +2,7 @@
 
 * [CS50 IDE](https://cs50.io/) <br>
 (where you write code)
-
+ <br>
 * [CS50 Reference](https://reference.cs50.net/) <br>
 (functions available to you)
 
@@ -10,7 +10,7 @@
 
 * [Status Page](https://cs50.statuspage.io/) <br>
 (is CS50 up and running?)
-
+ <br>
 * [C Style Guide](https://cs50.readthedocs.io/style/c/) <br>
 (how should I format my code?)
 
