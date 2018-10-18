@@ -3,7 +3,7 @@
 * [CS50 IDE](https://cs50.io/)
 (where you write code)
 
-* [CS50 Reference](https://reference.cs50.net/)//
+* [CS50 Reference](https://reference.cs50.net/) \\
 (functions available to you)
 
 ***
