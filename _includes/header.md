@@ -1,4 +1,6 @@
-# [CS50 AP]({{ "/" | relative_url }})
+# [AP CSP]({{ "/" | relative_url }})
 
-Harvard University\\
-2018–2019
+Ruston High School\\
+2018-2019
+
+_Based on Harvard University's CS50_
