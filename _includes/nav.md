@@ -1,12 +1,18 @@
 ***
 
-* [CS50 IDE](https://cs50.io/) (where you write code)
-* [CS50 Reference](https://reference.cs50.net/) (functions available to you)
+* [CS50 IDE](https://cs50.io/)
+(where you write code)
+
+* [CS50 Reference](https://reference.cs50.net/)//
+(functions available to you)
 
 ***
 
-* [Status Page](https://cs50.statuspage.io/) (is CS50 up and running?)
-* [C Style Guide](https://cs50.readthedocs.io/style/c/) (how should I format my code?)
+* [Status Page](https://cs50.statuspage.io/)
+(is CS50 up and running?)
+
+* [C Style Guide](https://cs50.readthedocs.io/style/c/)
+(how should I format my code?)
 
 ***
 
